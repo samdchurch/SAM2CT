@@ -1,6 +1,6 @@
 # Opportunistic Promptable Segmentation
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://www.arxiv.org/abs/2602.00309)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.00309-b31b1b.svg)](https://www.arxiv.org/abs/2602.00309)
 [![Zenodo](https://img.shields.io/badge/Zenodo-Model%20Weights-blue.svg)](https://zenodo.org/records/18394860)
 
 Official implementation of **Opportunistic Promptable Segmentation** for 3D CT lesion segmentation using routine radiological annotations.
