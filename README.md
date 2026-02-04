@@ -1,4 +1,4 @@
-# Opportunistic Promptable Segmentation
+# Opportunistic Promptable Segmentation w/ **SAM2CT**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.00309-b31b1b.svg)](https://www.arxiv.org/abs/2602.00309)
 [![Zenodo](https://img.shields.io/badge/Zenodo-Model%20Weights-blue.svg)](https://zenodo.org/records/18394860)
