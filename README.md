@@ -39,9 +39,12 @@ Pretrained model weights are available on **Zenodo**:
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{church2026sam2ct,
-  title={Opportunistic Promptable Segmentation: Using Routine Radiological Annotations to Guide 3D CT Lesion Segmentation},
-  author={Church, et al.},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
+@article{church2026opportunisticpromptablesegmentationleveraging,
+      title={Opportunistic Promptable Segmentation: Leveraging Routine Radiological Annotations to Guide 3D CT Lesion Segmentation}, 
+      author={Samuel Church and Joshua D. Warner and Danyal Maqbool and Xin Tie and Junjie Hu and Meghan G. Lubner and Tyler J. Bradshaw},
+      year={2026},
+      eprint={2602.00309},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.00309}, 
 }
