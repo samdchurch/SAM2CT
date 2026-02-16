@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+*egg-info*
 
 # Model weights and checkpoints
 *.pth
@@ -17,6 +18,7 @@ __pycache__/
 checkpoints/
 *.tar.gz
 *.zip
+temp.py
 
 # Virtual environments
 venv/
